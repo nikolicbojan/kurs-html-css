@@ -1,0 +1,11 @@
+Pozdrav,
+
+Domaci lepo odradjen uz samo jednu malu gresku i sugestiju:
+
+1) font-weight atribut ima opisne vrednosti, tipa bol i sl. Ako uzima numericke vrednosti treba da bude 100,200,300 itd
+2) Malo obratiti paznju na stil koda, uvlacenje i sl kako bi to lepse izgledao
+
+Sve u svemu, odlicno
+
+Pozdrav
+Damjan
